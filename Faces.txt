@@ -10,18 +10,6 @@ Ant:
 
 
 
-Beetle (bad):
-
-    \                   /
-   //\   ___________   /\\
-  //  (-/#|       |#\-)  \\
-  ||    (#|       |#)    ||
-  ||     /(_______)\     ||
-  \\    / | )_w_( | \   //
-{_ww       \|   |/      ww_}
-
-
-
 Beetle (Dig):
 
  _/|------|\_
@@ -169,4 +157,5 @@ Panda:
  (###(#\TT/#)###)
   \####v--v####/
    
-
+#To get the proper looks for the panda, make it white, this will make the fields that are black here white and as the background is 
+#black, it should look like a panda.
