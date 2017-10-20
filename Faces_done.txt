@@ -1,7 +1,7 @@
 (Done/NotDone/Total)
-(17+1/51/68)
+(21/65/86)
 
-Done (17):
+Done (21):
 
 -Ant
 -Beetle (dig)
@@ -21,10 +21,12 @@ Done (17):
 -Slug
 -Spider
 -Monkey
+-Pig
+-Horse
+-Donkey
+-Unicorn
 
--Pig(not in game)
-
-Not done (51):
+Not done (65):
 
 -Piranha
 -Lion
@@ -78,3 +80,17 @@ Not done (51):
 -Dragon
 -Wyrm
 -Anteater
+-Giraffe
+-Groundhog
+-Orangutan
+-Rabbit
+-Platypus
+-Raven
+-Stingray
+-Reindeer
+-Swordfish
+-Wolverine
+-Cheetah
+-Llama
+-Quog 
+-Yak
