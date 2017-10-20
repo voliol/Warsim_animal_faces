@@ -39,7 +39,7 @@ Toad:
 
 
 
-Pig (=extra=):
+Pig:
 
 /\          /\
 | \--------/ |
@@ -208,6 +208,40 @@ Panda:
 (################)
  (###(#\TT/#)###)
   \####v--v####/
-   
+    
 #To get the proper looks for the panda, make it white, this will make the fields that are black here white and as the background is 
 #black, it should look like a panda.
+
+
+Horse:
+   
+ |\mMm/|
+ /  W  \
+ 0     0
+ \|   |/
+  | _ |
+  | _ |
+  (o o)
+
+
+Donkey:
+
+ /\    /\
+ ||\MM/||
+ \|/MM\|/
+ (      )
+ \0|  |0/
+  ||--||
+  (o  o)
+
+
+Unicorn:
+
+ |\-A-/|
+ /  n  \
+ 0     0
+ \|   |/
+  | _ |
+  | _ |
+  (o o)
+ 
