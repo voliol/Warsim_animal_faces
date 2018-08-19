@@ -1,7 +1,7 @@
 (Done/NotDone/Total)
-(23/65+/86+)
+(24+1/65+/86+)
 
-Done (23):
+Done (24+1):
 
 -Ant
 -Beetle (dig)
@@ -27,8 +27,10 @@ Done (23):
 -Unicorn
 -Capybara
 -Camel
+-Orangutan
++Swordfish (extra)
 
-Not done (65):
+Not done (64):
 
 -Piranha
 -Lion
@@ -84,7 +86,6 @@ Not done (65):
 -Anteater
 -Giraffe
 -Groundhog
--Orangutan
 -Rabbit
 -Platypus
 -Raven
