@@ -2,9 +2,9 @@
 
 So here it is, the cool thing.
 
-The contents of this repository are (as of 2018-08-19):
-- Faces for 23 different species of animals to be used for the game Warsim.
-- A list over which animals now have faces, and which remain.
+The contents of this repository are (as of 2018-08-29):
+- Faces for 25+3 different species of animals to be used for the game Warsim.
+- A list over which animals now have faces, and which remain (the latter part being quite lacking).
 - A plan that more, if not all, faces will be completed.
 
 Update #0(2017-08-01):
@@ -24,3 +24,5 @@ Update #3(2018-08-29):
 
 NOTE: These are not free to use, only Huw2k8, the creator of Warsim, the game for which these faces were made, 
       and I, the original creator of these faces, may use them freely, with the notion that proper crediting must be in place.
+      
+      An "extra" face is a face belonging to an animal not currently in the game, or is in the game but I've missed it.
