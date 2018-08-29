@@ -24,5 +24,4 @@ Update #3(2018-08-29):
 
 NOTE: These are not free to use, only Huw2k8, the creator of Warsim, the game for which these faces were made, 
       and I, the original creator of these faces, may use them freely, with the notion that proper crediting must be in place.
-      
       An "extra" face is a face belonging to an animal not currently in the game, or is in the game but I've missed it.
