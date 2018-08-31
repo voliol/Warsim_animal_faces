@@ -372,7 +372,32 @@ Yak:
 
 
 
-Wyrms:
+(wyrms and dragons come in two sizes to either fit in with the rest of the animals, or stick out by being much bigger)
+Wyrm:
+
+    A______A
+  _/        \_
+<| <I>    <I> |>
+<| |v\ ,, /v| |>
+  ||vv\__/vv||
+   \\vvVVvv//
+    \\vVVv//
+
+     A        A  
+    / \______/ \
+  _/  _      _  \_       
+<| <I> __  __ <I> |>
+<| |v| ______ |v| |>
+  ||v\  ____  /v||
+   \\v\  __  /v//
+    \\v\,  ,/v//
+     \\v\__/v//
+      \\vVVv// 
+       ------ 
+
+
+
+Dragon:
 
   /\_A__A_/\
  <I>\    /<I>
@@ -382,10 +407,14 @@ Wyrms:
 \[VvvVvvVvvV]/
  \{        }/
 
-    A______A
-  _/        \_
-<| <I>    <I> |>
-<| |v\ ,, /v| |>
-  ||vv\__/vv||
-   \\vvVVvv//
-    \\vVVv//
+ |\          /|
+ | \_A_AA_A_/ |
+ <I>\  __  /<I>
+<\ ___,__,___ />
+<(/V\/vvvv\/V\)>
+ (  ________  )
+ {\(        )/}
+ \[VvvvvvvvvV]/
+  \{        }/
+   { ______ }
+   {        }
